@@ -9,6 +9,12 @@ src="https://user-images.githubusercontent.com/69108210/144707887-38e042ee-1d19-
 |FragmentApp      | MaterialDesign 
 ---
 ---
-<video src="https://user-images.githubusercontent.com/69108210/144711881-6437969f-88a6-4718-8739-02777c1e457b.mp4" width="150"></video>
-|Weather|
---
+<video 
+        src="https://user-images.githubusercontent.com/69108210/144711881-6437969f-88a6-4718-8739-02777c1e457b.mp4" width="150"></video> 
+        
+Weather
+---
+<video src="https://user-images.githubusercontent.com/69108210/145176895-ffc62361-0649-45b4-ad6b-0bc99597cfad.mp4" width="150"></video>
+
+InventoryApp
+---
