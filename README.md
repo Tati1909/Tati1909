@@ -15,7 +15,3 @@ src="https://user-images.githubusercontent.com/69108210/149660782-defd0c1c-da74-
         
 Weather
 ---
-<video src="https://user-images.githubusercontent.com/69108210/145176895-ffc62361-0649-45b4-ad6b-0bc99597cfad.mp4" width="150"></video>
-
-InventoryApp
----
